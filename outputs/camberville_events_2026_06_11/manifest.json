@@ -1,0 +1,19 @@
+{
+  "source_url": "https://www.cambridgeday.com/2026/06/11/events-this-week-in-camberville-wax-museum-fresh-pond-day-soccer-watch-parties/",
+  "scraped_at": "2026-06-21T10:39:19",
+  "events": 30,
+  "download_failures": [
+    {
+      "title": "David Wax Museum and Lowland Hum present The Golden Hours",
+      "url": "https://www.passim.org/live-music/events/david-wax-museum-lowland-hum-present-the-golden-hours/",
+      "error": "404 Client Error: Not Found for url: https://www.passim.org/live-music/events/david-wax-museum-lowland-hum-present-the-golden-hours/"
+    },
+    {
+      "title": "Matt Shore Does Songs At You: A Musical Comedy Show",
+      "url": "https://www.thecomedystudio.com/events/tcs-presents-matt-shore",
+      "error": "404 Client Error: Not Found for url: https://www.thecomedystudio.com/events/tcs-presents-matt-shore"
+    }
+  ],
+  "csv": "outputs\\camberville_events_2026_06_11\\camberville_events.csv",
+  "html_dir": "outputs\\camberville_events_2026_06_11\\downloaded_html"
+}

@@ -1,0 +1,24 @@
+{
+  "source_url": "https://www.cambridgeday.com/2026/06/04/events-this-week-pride-shakespeare-reinvented-fresh-pond-day/",
+  "scraped_at": "2026-06-22T00:24:13",
+  "events": 25,
+  "download_failures": [
+    {
+      "title": "Annual Pride Event",
+      "url": "https://www.passim.org/live-music/events/annual-pride-event/",
+      "error": "404 Client Error: Not Found for url: https://www.passim.org/live-music/events/annual-pride-event/"
+    },
+    {
+      "title": "David Wax Museum and Lowland Hum present The Golden Hours",
+      "url": "https://www.passim.org/live-music/events/david-wax-museum-lowland-hum-present-the-golden-hours/",
+      "error": "404 Client Error: Not Found for url: https://www.passim.org/live-music/events/david-wax-museum-lowland-hum-present-the-golden-hours/"
+    },
+    {
+      "title": "Matt Shore Does Songs At You: A Musical Comedy Show",
+      "url": "https://www.thecomedystudio.com/events/tcs-presents-matt-shore",
+      "error": "404 Client Error: Not Found for url: https://www.thecomedystudio.com/events/tcs-presents-matt-shore"
+    }
+  ],
+  "csv": "outputs\\camberville_events_2026_06_04_events-this-week-pride-shakespeare-reinvented\\camberville_events.csv",
+  "html_dir": "outputs\\camberville_events_2026_06_04_events-this-week-pride-shakespeare-reinvented\\downloaded_html"
+}
